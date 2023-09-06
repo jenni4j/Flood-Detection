@@ -7,4 +7,4 @@ Accurate flood mapping being critical to aiding in search and rescue efforts, th
 
 In this project, various fully convolutional network architectures were implemented from scratch and trained to create segmentation maps of flooded areas using a curated flood water dataset. A vision transformer pretrained on generic satellite data was also used in order to compare & improve base performance. 
 
-The final report can be found [here](https://github.com/jenni4j/Flood-Detection/blob/main/Final_Report.pdf)
+The final report can be found [here](https://github.com/jenni4j/Flood-Detection/blob/main/Final_Report.pdf).
